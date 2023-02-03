@@ -1,0 +1,14 @@
+.button {
+  margin-bottom: 20px;
+  margin-right: 20px;
+  padding: 10px 20px;
+  font-size: 20px;
+  text-transform: capitalize;
+  border-radius: 5px;
+  outline: none;
+}
+
+.button:hover,
+.button:focus {
+  background-color: aquamarine;
+}

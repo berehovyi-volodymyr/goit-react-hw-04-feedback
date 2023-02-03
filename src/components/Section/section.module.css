@@ -1,0 +1,11 @@
+.title {
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
+.section {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}

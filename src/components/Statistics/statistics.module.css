@@ -1,0 +1,17 @@
+.qty {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  font-size: 24px;
+}
+
+.mark {
+  margin-right: 10px;
+}
+
+.statistics {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  font-size: 28px;
+}
